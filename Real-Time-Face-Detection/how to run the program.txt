@@ -1,0 +1,4 @@
+
+1. Open folder directory containing both files in cmd.
+
+2. Write following command cmd "python real_time_face_recognizatioin haarcascade_frontface_default.xml"
